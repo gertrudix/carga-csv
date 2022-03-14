@@ -1,10 +1,10 @@
-x_axis,key,height,size
-Anosmia,anos,40.3,40.3
-Ansiedad,ans,46,8,46,8
-Dolor esternal,de,44.2,44.2
-Bajo de ánimo,ba,56.6,56.6
-Cansancio,cs,83.6,83.6
-Diarrea,di,41.7,41.7
-Malestar general,mg,79.3,79.3
+x_axis,z_axis,key,height,size,radius
+Anosmia,2020,Anos,40.3,40.3,7
+Ansiedad,2020,Ans,46,8,46,8,5
+Dolor esternal,2020,Dolor,44.2,44.2,3
+Bajo de ánimo,2020,Ánimo,56.6,56.6,4
+Cansancio,2020,Cans,83.6,83.6,2
+Diarrea,2020,Dia,41.7,41.7,5
+Malestar general,2020,Malestar,79.3,79.3,3
 
 
